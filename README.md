@@ -1,1 +1,2 @@
+# Olá
 Eu sou a Graciela Sarti, atualmente estudante de Desenvolvimento Web. Sou profissional licenciada em Turismo e também Técnica em Segurança do Trabalho, apaixonada por tecnologias, pelo mar e por viagens.
