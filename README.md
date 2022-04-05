@@ -4,4 +4,4 @@ Ex-marítima, professora, recepcionista, garçonete, repositora de mercado e por
 Acabei encontrando na tecnologia o ponto de mudança em minha carreira e na minha vida num todo!
 Me adicionem para mantermos um networking e fazer dessa jornada uma experiência incrível para todos!!!
 
-"Não existe tecnologia boa para tudo, o que existe é aquela tecnologia que resolve determinado problema!"
+"Não existe tecnologia boa para tudo, o que existe é aquela tecnologia que resolve determinado problema!" - Gra Sarti
