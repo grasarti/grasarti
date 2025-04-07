@@ -4,7 +4,7 @@ Do Turismo para Desenvolvimento de Software!
 
 Encontrei na tecnologia o ponto de mudança em minha carreira e na minha vida num todo!
 
-Linguagens: Phyton e Golang
+Linguagens: Python e Golang
 
 Banco de Dados: MySql
 
