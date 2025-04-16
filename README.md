@@ -1,11 +1,15 @@
 # Olá, meu nome é Graciela Sarti!
 
-Do Turismo para Desenvolvimento de Software!
+Cientista de Dados e Engenheira de Software especialista em IA 🤖
 
-Encontrei na tecnologia o ponto de mudança em minha carreira e na minha vida num todo!
+Ex-turismóloga que virou techie 💻 Eterna aprendiz 🧠
+
+Encontrei na tecnologia o ponto de mudança em minha carreira e na minha vida num todo! ✨
+
+A jornada é global 🌍 — e sempre com propósito.
 
 Linguagens: Python e Golang
 
 Banco de Dados: MySql
 
-"Não existe tecnologia boa para tudo, o que existe é aquela boa tecnologia que resolve determinado problema!" - Gra Sarti
+"Não existe tecnologia boa para tudo, o que existe é aquela boa tecnologia que resolve determinado problema!" - Graciela Sarti
