@@ -1,15 +1,15 @@
-# Olá, meu nome é Graciela Sarti!
+# Hello, my name is Graciela Sarti!
 
-Cientista de Dados e Engenheira de Software especialista em IA 🤖
+Data Scientist and Software Engineer specialized in AI 🤖
 
-Ex-turismóloga que virou techie 💻 Eterna aprendiz 🧠
+Former tourism professional turned techie 💻 Lifelong learner 🧠
 
-Encontrei na tecnologia o ponto de mudança em minha carreira e na minha vida num todo! ✨
+I found in technology the turning point in my career — and in my life as a whole! ✨
 
-A jornada é global 🌍 — e sempre com propósito.
+The journey is global 🌍 — and always with purpose.
 
-Linguagens: Python e Golang
+Languages: Python and Golang
 
-Banco de Dados: MySql
+Database: MySQL
 
-"Não existe tecnologia boa para tudo, o que existe é aquela boa tecnologia que resolve determinado problema!" - Graciela Sarti
+"There’s no such thing as a perfect technology for everything — what exists is the right technology that solves a specific problem!" – Graciela Sarti
